@@ -17,7 +17,6 @@ dist/
 
 # Log files
 *.log
-docker-compose.yml
 
 # Package files
 *.jar
